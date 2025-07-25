@@ -1,6 +1,9 @@
 # Somatic_Mutation
+
+The complete code will be published as soon as the paper is published.
+
 TUMOR-ONLY SOMATIC MUTATION PIPELINE
-Complete code will be published as soon as paper get published. 
+
 Input: Tumor BAM/FASTQ (no matched normal)
 Output: Filtered somatic variants (VCF), CNV calls, annotated results
 
